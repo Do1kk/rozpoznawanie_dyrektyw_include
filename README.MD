@@ -1,0 +1,1 @@
+Analiza plików nagłówkowych języka C i rozpoznawanie w nim dyrektywy #include. Ma on zwracać nazwy załączonych w nim plików, bądź nazwy plików bez rozszerzenia, jeśli dany plik będzie plikiem nagłówkowym.
